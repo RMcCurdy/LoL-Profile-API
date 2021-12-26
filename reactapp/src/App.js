@@ -1,5 +1,5 @@
 function App() {
-    return <>My Website</>;
+    return <>LoL Profile API</>;
 }
 
 export default App;
